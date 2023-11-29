@@ -1,0 +1,10 @@
+## Interface: 100107
+## Title: bind
+## Author: Hollgy
+## Version: 0.1.2
+## Notes: Simple addon for a sane default keybind setup
+## URL: 
+## IconTexture: Interface\Icons\Inv_qiraj_jewelglyphed
+
+Utils.lua
+binds.lua
